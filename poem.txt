@@ -8,5 +8,6 @@ Coins
 Rope
 Rings
 Silk
+Sharpie
 
 These are the props used in magic.
