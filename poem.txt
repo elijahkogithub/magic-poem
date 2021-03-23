@@ -1,0 +1,12 @@
+The props
+
+Cups
+Balls
+Wand
+Cards
+Coins
+Rope
+Rings
+Silk
+
+These are the props used in magic.
