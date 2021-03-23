@@ -1,4 +1,4 @@
-The props (close-up skills)
+The props (close-up & stage skills)
 
 Cups
 Balls
@@ -12,9 +12,12 @@ Sharpie
 Rubik's Cube
 Sponge
 
-Skills:
+Close-up Skills:
 Classic palm
 Finger palm
 Thumb palm
+
+Stage Skills:
+Tenkai palm
 
 These are the props used in magic.
