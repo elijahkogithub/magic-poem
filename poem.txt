@@ -9,5 +9,6 @@ Rope
 Rings
 Silk
 Sharpie
+Rubik's Cube
 
 These are the props used in magic.
