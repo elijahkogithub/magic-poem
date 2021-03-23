@@ -10,5 +10,6 @@ Rings
 Silk
 Sharpie
 Rubik's Cube
+Sponge
 
 These are the props used in magic.
