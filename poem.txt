@@ -29,5 +29,6 @@ Harlen Tarbell
 
 Magic Companies:
 Vanishing Inc.
+Penguin Magic
 
 These are the props used in magic.
