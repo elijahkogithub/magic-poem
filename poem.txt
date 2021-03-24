@@ -27,4 +27,7 @@ David Copperfield
 Teller
 Harlen Tarbell
 
+Magic Companies:
+Vanishing Inc.
+
 These are the props used in magic.
