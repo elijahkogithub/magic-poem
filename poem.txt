@@ -25,5 +25,6 @@ Magicians:
 Jean-Eugène Robert-Houdin (Creator of the "Orange Tree" Illusion)
 David Copperfield
 Teller
+Harlen Tarbell
 
 These are the props used in magic.
